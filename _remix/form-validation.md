@@ -11,9 +11,7 @@ tags:
 
 Το παράδειγμα αυτό βασίζεται σε regular expression για να εντοπίσει σφάλματα στην είσοδου του χρήστη.
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="Form Validation" src="https://codepen.io/mibook/embed/XWdwJxX?height=265&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/mibook/pen/XWdwJxX'>Form Validation</a> by mibook
-  (<a href='https://codepen.io/mibook'>@mibook</a>) on <a href='https://codepen.io'>CodePen</a>.
+<iframe height="265" style="width: 100%;" scrolling="no" title="OJXzGbR" src="https://codepen.io/tkoutropoulou/embed/OJXzGbR?height=265&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/tkoutropoulou/pen/OJXzGbR'>OJXzGbR</a> by Theoni Koutropoulou
+  (<a href='https://codepen.io/tkoutropoulou'>@tkoutropoulou</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
-
-Άσκηση: Προσθέστε έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. 
