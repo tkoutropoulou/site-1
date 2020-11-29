@@ -14,6 +14,6 @@ gallery:
   - image_url: /images/coplanner.png
     caption: ""
 
-{% include extras/cs-windows.md %}
+{% include extras/cad.md %}
 
 {% include gallery %}
