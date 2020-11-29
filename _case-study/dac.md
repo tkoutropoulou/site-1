@@ -14,6 +14,6 @@ gallery:
   - image_url: /images/coplanner.png
     caption: ""
 
-{% include cad.md %}
+{% include extras/cad.md %}
 
 {% include gallery %}
